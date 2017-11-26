@@ -1,0 +1,8 @@
+{
+  "name": "YotubeAppClient",
+  "app_id": "mib.app.Yotube",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
